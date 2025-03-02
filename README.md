@@ -21,5 +21,7 @@ It’s a simple yet engaging game that has stood the test of time due to its add
 Reasources :
 vs code.,systems 
 
-outpute  :
+outpute  : 
+https://github.com/Karan0091/-GAME-DEVELOPMENT-SNAKE-GAME/blob/main/outpute
+
 
